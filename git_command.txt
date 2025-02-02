@@ -15,6 +15,7 @@ git add <filename>
 Add all the files to git
 
 git add .
+git push 
 Commit all the staged files to git
 
 git commit -m "<your commit message>"
@@ -23,12 +24,12 @@ Restore the file from being modified to Tracked
 git restore <filename>
 git checkout <filename>
 Show the status of your Git respository
-
+git push 
 git status
 Show the branches of your git repository
-
+git push
 git branch
-Checkout to a new branch
+Checkout to a new branchgit 
 
 git checkout -b <branch name>
 Checkout to an existing branch
